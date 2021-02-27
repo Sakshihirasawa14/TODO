@@ -1,0 +1,41 @@
+body {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    background-color: deepskyblue;
+}
+
+li {
+    text-align: center;
+    font-size: 1.8em;
+    background-color: white;
+    color: black;
+    padding: .3em 0em .3em 0em;
+    margin-bottom: 1em;
+    border-radius: 6px;
+}
+
+#lists {
+    margin-bottom: 2em;
+    padding: 1em;
+    margin-top: 2em;
+    width: 50%;
+    align-items: center;
+}
+
+button {
+    margin: 2em;
+    color: black;
+    font-size: 1.5em;
+    padding: 0.5em;
+    border-radius: 5px;
+}
+
+input {
+    margin: 2em;
+    color: black;
+    font-size: 1.5em;
+    padding: 0.5em;
+    border-radius: 5px;
+}
