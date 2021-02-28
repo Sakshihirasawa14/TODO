@@ -1,2 +1,3 @@
 # TO-DO
-Can use this as a TO-DO application. Can create a TODO list using this site for yourself.
+Created a TO-DO list application. 
+Can be used create a TODO list using this site for yourself.
